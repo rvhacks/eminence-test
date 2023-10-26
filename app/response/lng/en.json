@@ -1,0 +1,18 @@
+{
+  "ERROR": {
+    "ERR0001": "Something went wrong",
+    "ERR0002": "Invalid route",
+    "ERR0003": "This username is already taken",
+    "ERR0004": "Unexpected error occurred",
+    "ERR0005": "Invalid credentials",
+    "ERR0006": "Invalid token",
+    "ERR0007": "Missing token",
+    "ERR0008": "Token is expired"
+  },
+  "SUCCESS": {
+    "SCC0001": "OK",
+    "SCC0002": "Registration successful",
+    "SCC0003": "Login successful",
+    "SCC0004": "Logout successful"
+  }
+}
